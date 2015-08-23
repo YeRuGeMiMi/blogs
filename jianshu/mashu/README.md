@@ -8,3 +8,4 @@
 * [函数式编程之我知我见](mashu_3.md)
 * [RESTful](mashu_4.md)
 * [git巧计](mashu_5.md)
+* [我的sublime](mashu_6.md)
